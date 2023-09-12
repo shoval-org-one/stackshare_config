@@ -1,5 +1,7 @@
 orgs:
   - id: org-a
+  - id: zah1
+  - id: zah2
 
   - id: org-b
     parent_org_id: org-a
